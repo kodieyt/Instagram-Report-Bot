@@ -1,4 +1,4 @@
-#i swear to god if this gets leaked or edited your family dont love you @zesifys is the owner
+
 from tkinter import *
 from tkinter import ttk
 import tkinter.messagebox
